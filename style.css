@@ -1,0 +1,32 @@
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.input-div {
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+}
+
+input {
+  width: 100%;
+}
+
+.btn {
+  width: 50%;
+  max-width: 150px;
+  height: 40px;
+  border-radius: 20px;
+}
+
+.btn-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
